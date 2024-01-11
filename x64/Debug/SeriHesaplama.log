@@ -1,0 +1,4 @@
+﻿  SeriHesaplama.cpp
+C:\Users\furka\Desktop\Paralel Programlama\projeler\SeriHesaplama\SeriHesaplama.cpp(10,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\furka\Desktop\Paralel Programlama\projeler\SeriHesaplama\SeriHesaplama.cpp(11,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  SeriHesaplama.vcxproj -> C:\Users\furka\Desktop\Paralel Programlama\projeler\SeriHesaplama\x64\Debug\SeriHesaplama.exe

@@ -1,0 +1,2 @@
+C:\Users\furka\StudioProjects\SeriHesaplama\x64\Debug\SeriHesaplama.exe
+C:\Users\furka\Desktop\Paralel Programlama\projeler\SeriHesaplama\x64\Debug\SeriHesaplama.exe
